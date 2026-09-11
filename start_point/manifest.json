@@ -1,0 +1,26 @@
+{
+  "display_name": "Go 1.27, Ginkgo 2.32",
+  "language": [
+    "Go",
+    "1.27"
+  ],
+  "test_framework": [
+    "Ginkgo",
+    "2.32"
+  ],
+  "image_name": "ghcr.io/cyber-dojo-languages/go_ginkgo:b3e7d1e",
+  "visible_filenames": [
+    "hiker_test.go",
+    "hiker_suite_test.go",
+    "hiker.go",
+    "go.mod",
+    "go.sum",
+    "cyber-dojo.sh"
+  ],
+  "rag_lambda": "red_amber_green.rb",
+  "filename_extension": [
+    ".go"
+  ],
+  "max_seconds": 15,
+  "tab_size": 4
+}
