@@ -1,0 +1,12 @@
+{
+  "match_counts": {
+    "^Will run 3 of 3 specs$": 1,
+    "^Summarizing 1 Failure:$": 1,
+    "^  \\[FAIL\\] answer \\[It\\] is life the universe and everything$": 1,
+    "^FAIL! -- 2 Passed \\| 1 Failed \\| 0 Pending \\| 0 Skipped$": 1,
+    "^exit status 1$": 1,
+    "is even": 0,
+    "is two digits": 0,
+    "^PASS$": 0
+  }
+}

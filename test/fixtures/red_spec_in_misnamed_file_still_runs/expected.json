@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^Will run 2 of 2 specs$": 1,
+    "^Summarizing 1 Failure:$": 1,
+    "^  \\[FAIL\\] the size of the answer \\[It\\] is three digits$": 1,
+    "hiker_tests\\.go:[0-9]+": 3,
+    "^FAIL! -- 1 Passed \\| 1 Failed \\| 0 Pending \\| 0 Skipped$": 1,
+    "^exit status 1$": 1,
+    "^PASS$": 0
+  }
+}

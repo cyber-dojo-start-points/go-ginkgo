@@ -1,0 +1,14 @@
+{
+  "match_counts": {
+    "^Will run 2 of 2 specs$": 1,
+    "\\[FAILED\\] Expected$": 1,
+    "^  \\[PANICKED\\] Test Panicked$": 1,
+    "^  runtime error: index out of range \\[5\\] with length 2$": 1,
+    "^Summarizing 2 Failures:$": 1,
+    "^  \\[FAIL\\] answer \\[It\\] is life the universe and everything$": 1,
+    "^  \\[PANICKED!\\] answer \\[It\\] has digits summing to six$": 1,
+    "^FAIL! -- 0 Passed \\| 2 Failed \\| 0 Pending \\| 0 Skipped$": 1,
+    "^exit status 1$": 1,
+    "^PASS$": 0
+  }
+}

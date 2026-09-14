@@ -1,0 +1,14 @@
+{
+  "match_counts": {
+    "^Will run 1 of 1 specs$": 1,
+    "\\[FAILED\\] Expected$": 1,
+    "^Summarizing 1 Failure:$": 1,
+    "^  \\[FAIL\\] answer \\[It\\] is life the universe and everything$": 1,
+    "^FAIL! -- 0 Passed \\| 1 Failed \\| 0 Pending \\| 0 Skipped$": 1,
+    "^--- FAIL: TestHiker ": 1,
+    "^exit status 1$": 1,
+    "^FAIL[[:space:]]+cyber-dojo-go-ginkgo[[:space:]]": 1,
+    "^PASS$": 0,
+    "\\[PANICKED\\]": 0
+  }
+}

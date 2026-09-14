@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 3,
+  "match_counts": {
+    "^\\./hiker\\.go:[0-9]+:[0-9]+: syntax error: ": 1,
+    "^FAIL[[:space:]]+cyber-dojo-go-ginkgo \\[build failed\\]$": 1,
+    "^Running Suite: ": 0,
+    "^PASS$": 0
+  }
+}

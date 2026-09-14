@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 11,
+  "match_counts": {
+    "^Will run 1 of 1 specs$": 1,
+    "^SUCCESS! -- 1 Passed \\| 0 Failed \\| 0 Pending \\| 0 Skipped$": 1,
+    "^PASS$": 1,
+    "^ok[[:space:]]+cyber-dojo-go-ginkgo": 1,
+    "Sums Suite": 0,
+    "checking the size of the answer": 0,
+    "\\[FAILED\\]": 0
+  }
+}

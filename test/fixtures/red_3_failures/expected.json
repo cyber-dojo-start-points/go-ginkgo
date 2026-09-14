@@ -1,0 +1,13 @@
+{
+  "match_counts": {
+    "^Will run 3 of 3 specs$": 1,
+    "\\[FAILED\\] Expected$": 3,
+    "^Summarizing 3 Failures:$": 1,
+    "^  \\[FAIL\\] answer \\[It\\] ": 3,
+    "^FAIL! -- 0 Passed \\| 3 Failed \\| 0 Pending \\| 0 Skipped$": 1,
+    "^--- FAIL: TestHiker ": 1,
+    "^exit status 1$": 1,
+    "^PASS$": 0,
+    "\\[PANICKED\\]": 0
+  }
+}

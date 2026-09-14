@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 4,
+  "match_counts": {
+    "^\\./hiker\\.go:[0-9]+:[0-9]+: undefined: multiplier$": 1,
+    "^\\./hiker\\.go:[0-9]+:[0-9]+: undefined: digitSum$": 1,
+    "^FAIL[[:space:]]+cyber-dojo-go-ginkgo \\[build failed\\]$": 1,
+    "^Running Suite: ": 0,
+    "^PASS$": 0
+  }
+}

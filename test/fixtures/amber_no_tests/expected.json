@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 10,
+  "match_counts": {
+    "^Will run 0 of 0 specs$": 1,
+    "^Ran 0 of 0 Specs in ": 1,
+    "^SUCCESS! -- 0 Passed \\| 0 Failed \\| 0 Pending \\| 0 Skipped$": 1,
+    "^PASS$": 1,
+    "^ok[[:space:]]+cyber-dojo-go-ginkgo": 1,
+    "\\[FAILED\\]": 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 3,
+  "match_counts": {
+    "^hiker_test\\.go:[0-9]+:[0-9]+: expected '\\}', found 'EOF'$": 1,
+    "^FAIL[[:space:]]+cyber-dojo-go-ginkgo \\[setup failed\\]$": 1,
+    "syntax error:": 0,
+    "^Running Suite: ": 0,
+    "^PASS$": 0
+  }
+}

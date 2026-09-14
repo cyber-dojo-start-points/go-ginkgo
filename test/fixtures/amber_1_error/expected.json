@@ -1,0 +1,13 @@
+{
+  "match_counts": {
+    "\\[PANICKED\\] \\[": 1,
+    "^  \\[PANICKED\\] Test Panicked$": 1,
+    "^  runtime error: index out of range \\[2\\] with length 2$": 1,
+    "^Summarizing 1 Failure:$": 1,
+    "^  \\[PANICKED!\\] answer \\[It\\] is life the universe and everything$": 1,
+    "^FAIL! -- 0 Passed \\| 1 Failed \\| 0 Pending \\| 0 Skipped$": 1,
+    "^exit status 1$": 1,
+    "^exit status 2$": 0,
+    "^PASS$": 0
+  }
+}

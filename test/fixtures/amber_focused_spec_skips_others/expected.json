@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 12,
+  "match_counts": {
+    "^Will run 1 of 2 specs$": 1,
+    "^Ran 1 of 2 Specs in ": 1,
+    "^SUCCESS! -- 1 Passed \\| 0 Failed \\| 0 Pending \\| 1 Skipped$": 1,
+    "^PASS \\| FOCUSED$": 1,
+    "^exit status 197$": 1,
+    "^FAIL[[:space:]]+cyber-dojo-go-ginkgo[[:space:]]": 1,
+    "is three digits": 0
+  }
+}

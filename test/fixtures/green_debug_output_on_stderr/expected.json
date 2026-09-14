@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 12,
+  "matches": [ "^answer was called$" ],
+  "match_counts": {
+    "^answer was called$": 1,
+    "^Will run 1 of 1 specs$": 1,
+    "^SUCCESS! -- 1 Passed \\| 0 Failed \\| 0 Pending \\| 0 Skipped$": 1,
+    "^PASS$": 1,
+    "^ok[[:space:]]+cyber-dojo-go-ginkgo": 1,
+    "\\[FAILED\\]": 0
+  }
+}
