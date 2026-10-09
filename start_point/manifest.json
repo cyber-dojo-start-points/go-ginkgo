@@ -1,14 +1,14 @@
 {
-  "display_name": "Go 1.27, Ginkgo 2.32",
+  "display_name": "Go 1.27, Ginkgo 2.33",
   "language": [
     "Go",
     "1.27"
   ],
   "test_framework": [
     "Ginkgo",
-    "2.32"
+    "2.33"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/go_ginkgo:b3e7d1e",
+  "image_name": "ghcr.io/cyber-dojo-languages/go_ginkgo:5e3a99f",
   "visible_filenames": [
     "hiker_test.go",
     "hiker_suite_test.go",
