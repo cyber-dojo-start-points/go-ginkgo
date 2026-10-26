@@ -1,6 +1,6 @@
 module cyber-dojo-go-ginkgo
 
-go 1.27.1
+go 1.27.3
 
 require (
 	github.com/onsi/ginkgo/v2 v2.33.1
